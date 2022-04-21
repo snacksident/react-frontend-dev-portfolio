@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "andy olsen",
-      "titles": [ "full stack developer", "curious mind", "problem solver" ],
+      "titles": [ "full stack developer", "automation enthusiast" ],
       "social": [
         {
           "name": "github",
@@ -39,13 +39,37 @@
           "level": "85"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
           "level": "60"
         },
         {
           "name": "React",
           "class": "devicon-react-plain"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
+        },
+        {
+          "name": "github",
+          "class": "devicon-github-plain"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "yo",
-      "description": "👋 i'm andy olsen. full stack developer :)",
+      "description_header": "andy olsen",
+      "description": "👋 hi - i'm andy.  inspired by the rush of problem solving, i strive to create applications to help people in their daily lives.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -40,12 +40,20 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "postgreSQL"
           }
         ]
       },
@@ -66,44 +74,17 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain"
+          },
+          {
+            "name": "Express",
+            "class": "devicon-express-original"
           }
         ]
       }
     ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
+    "experience": []
   }

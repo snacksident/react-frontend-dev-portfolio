@@ -3,7 +3,7 @@ body[data-theme="dark"] {
    @import '../src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #0A0908;
    }
 
    .title-styles {
@@ -16,11 +16,11 @@ body[data-theme="dark"] {
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #0A0908;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #001B58;
    }
 
    .link-href {
@@ -33,7 +33,7 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #001B58;
       h1 {
          color: white;
       }
@@ -54,7 +54,7 @@ body[data-theme="dark"] {
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #001B58;
       .section-title {
          color: white !important;
       }
@@ -68,7 +68,7 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #001B58;
       .section-title {
          color: white !important;
       }
@@ -97,7 +97,7 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #001B58;
       color: white;
    }
 
