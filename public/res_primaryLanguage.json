@@ -37,7 +37,7 @@
           "images/portfolio/hallpass/1.png",
           "images/portfolio/hallpass/2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/snacksident/hallpass-logger",
         "technologies": [
           {
             "class": "devicon-express-original",
@@ -65,7 +65,7 @@
           "images/portfolio/socketio-chat/1.jpeg",
           "images/portfolio/socketio-chat/2.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/snacksident/socketio-chat-server",
         "technologies": [
           {
             "class": "devicon-react-plain",
