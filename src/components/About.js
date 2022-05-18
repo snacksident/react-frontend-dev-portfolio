@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 // import mongoIcon from "@iconify/vscode-icons/file-type-mongo";
 import reactIcon from "@iconify/icons-logos/react";
 import pythonIcon from "@iconify/icons-logos/python"
+import javascriptIcon from "@iconify/icons-logos/javascript"
 
 class About extends Component {
   render() {
@@ -37,6 +38,10 @@ class About extends Component {
                   <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon 
+                    icon={javascriptIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%"}}
                   />
                   {/* <Icon
                     icon={vueIcon}
