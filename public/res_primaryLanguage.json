@@ -13,7 +13,7 @@
       {
         "title": "newsies rush",
         "startDate": "2022",
-        "description": "HTML5 Canvas game made as a clone of the classic 'paperboy' game.  Utilizes object oriented programming practices.",
+        "description": "HTML5 Canvas game made as a clone of the classic 'paperboy' game.  Utilizes object oriented programming practices.  Styled like a retro arcade game",
         "images": [
           "images/portfolio/newsies/1.png"
         ],
@@ -32,7 +32,7 @@
       {
         "title": "Hallpass Logger",
         "startDate": "2022",
-        "description": "Designed to assist teachers with tracking hallpass usage of students.  Features authentication and authorization.  Full stack application.",
+        "description": "Designed to assist teachers with tracking hallpass usage of students.  Features user authentication and authorization.  Full stack application.",
         "images": [
           "images/portfolio/hallpass/1.png",
           "images/portfolio/hallpass/2.png"
